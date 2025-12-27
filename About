@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About - Favy's Inky Library</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#fdfdfd; color:#333; padding:20px; }
+    header { text-align:center; margin-bottom:20px; }
+    header h1 { color:#f08080; margin-bottom:5px; }
+    nav { text-align:center; margin-bottom:30px; }
+    nav a { margin:0 10px; text-decoration:none; color:#333; font-weight:bold; }
+    article { max-width:700px; margin:auto; line-height:1.6; }
+    footer { text-align:center; margin-top:50px; color:#555; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>About Favy's Inky Library</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<article>
+  <p>Favy's Inky Library is a creative space dedicated to heartfelt stories, emotions, and journeys that touch the soul. Each story is crafted to connect with readers, spark imagination, and resonate with the echoes of life itself. New stories are added regularly for those who seek to be inspired, moved, and transported to new worlds.</p>
+</article>
+
+<footer>
+  <p>© 2025 Favy's Inky Library</p>
+</footer>
+
+</body>
+</html>
