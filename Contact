@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact - Favy's Inky Library</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#fdfdfd; color:#333; padding:20px; }
+    header { text-align:center; margin-bottom:20px; }
+    header h1 { color:#f08080; margin-bottom:5px; }
+    nav { text-align:center; margin-bottom:30px; }
+    nav a { margin:0 10px; text-decoration:none; color:#333; font-weight:bold; }
+    article { max-width:700px; margin:auto; line-height:1.6; }
+    footer { text-align:center; margin-top:50px; color:#555; }
+    a.button { display:inline-block; background:#f08080; color:#fff; padding:10px 15px; border-radius:5px; text-decoration:none; margin-top:10px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Contact Favy's Inky Library</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<article>
+  <p>If you want to reach out, send an email or click the WhatsApp button below:</p>
+  <p>Email: <a href="mailto:favy.inky@example.com">favy.inky@example.com</a></p>
+  <p><a class="button" href="https://wa.me/234000000000">Chat on WhatsApp</a></p>
+</article>
+
+<footer>
+  <p>© 2025 Favy's Inky Library</p>
+</footer>
+
+</body>
+</html>
