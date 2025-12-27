@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Favy's Inky Library</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin:0; padding:0; background:#fdfdfd; color:#333; }
+    header { background:#f5cdb3; padding:20px; text-align:center; }
+    header h1 { margin:0; }
+    header p { margin:5px 0 0 0; font-style:italic; color:#555; }
+    nav { background:#f7e6d0; padding:10px; text-align:center; }
+    nav a { margin:0 15px; color:#333; text-decoration:none; font-weight:bold; }
+    .posts { display:flex; flex-direction:column; align-items:center; margin:20px 0; }
+    .post { width:90%; max-width:600px; background:#fff; padding:20px; margin:15px 0; border-radius:12px; box-shadow:0 0 15px rgba(0,0,0,0.1); }
+    .post h2 { margin-top:0; color:#f08080; }
+    .post p { margin:10px 0; }
+    .post a { text-decoration:none; color:#f08080; font-weight:bold; }
+    footer { background:#f5cdb3; text-align:center; padding:15px; margin-top:30px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Favy's Inky Library</h1>
+  <p>Stories • Thoughts • Creativity</p>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="posts">
+  <div class="post">
+    <h2>ECHOES OF HER</h2>
+    <p>A compelling story about love, loss, and the echoes that linger in the heart. Follow the journey and unravel the mysteries of her world.</p>
+    <a href="echoes.html">Read More</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Favy's Inky Library</p>
+</footer>
+
+</body>
+</html>
